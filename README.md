@@ -1,1 +1,1 @@
-Data Science in Pyhton-Matplotlib,Pandas,Numpy,Scikit-learn
+Data Science in Pyhton: Matplotlib, Pandas, Numpy, Scikit-learn
